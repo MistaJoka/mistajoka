@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I have been a hobbyist for over a decade from a distance. It is time to take action towards leaving a footprint. 
+
+
 <!--
 **MistaJoka/mistajoka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
